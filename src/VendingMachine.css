@@ -1,0 +1,16 @@
+.VendingMachine {
+    background-image: url('https://media.giphy.com/media/l3fQcDOZ3M3iBfv0I/giphy.gif');
+    display: block;
+    height: 100vh;
+    padding: 20%;
+}
+
+.VendingMachine-hello {
+    background-color: rgba(0,0,0,0.6);
+    color: white;
+}
+
+.VendingMachine-items {
+    background-color: rgba(221, 221, 221, 0.6);
+    color: white;
+}

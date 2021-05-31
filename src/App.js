@@ -5,6 +5,14 @@ import Nachos from "./Nachos";
 import Celery from "./Celery";
 import {BrowserRouter, Route} from "react-router-dom";
 
+
+/** App component
+ * 
+ * App -> VendingMachine 
+ *     -> Cookies
+ *     -> Nachos
+ *     -> Celery
+ */
 function App() {
   return (
     <div className="App">
