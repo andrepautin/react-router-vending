@@ -1,0 +1,12 @@
+.NavBar {
+    display: flex;
+    justify-content: space-around;
+}
+
+.NavBar a {
+    color: black
+}
+
+.NavBar a.active {
+    color: red
+}
